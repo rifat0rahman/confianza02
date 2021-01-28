@@ -27,7 +27,7 @@ SECRET_KEY = 'eew81#e8fjtt3=m5rym1fi9pp=f*s2n08^g6)dee#+l$w$8+(1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['confianza02.herokuapp.com','http://127.0.0.1:8000']
+ALLOWED_HOSTS = ['confianza02.herokuapp.com','127.0.0.1']
 
 # Application definition
 
